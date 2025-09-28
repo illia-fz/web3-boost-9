@@ -1,3 +1,5 @@
 Web3 refers to the decentralized web where users control their data and identities.
 Decentralized applications (dApps) run on blockchains and use tokens for governance and incentives.
 Interoperability protocols enable communication between different chains.
+Decentralized identity solutions enable users to maintain sovereignty over personal data.
+Token standards such as ERC-20 and ERC-721 facilitate compatibility across dApps.
